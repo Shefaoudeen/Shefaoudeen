@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shefaoudeen, 2nd year student pursuing electronics engineering in Puducherry Technology University || PTU25. 
+- 👋 Hi, I’m Shefaoudeen, Pre final year student pursuing electronics engineering in Puducherry Technology University || PTU25. 
 - 👀 I’m interested in programming, anime, manga ...
 - 👨🏻‍💻 Fullstack Developer 
 - Javascript | reactjs | python
